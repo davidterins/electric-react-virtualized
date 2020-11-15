@@ -1,5 +1,5 @@
 {
-  "name": "react-virtualized",
+  "name": "paged-electron-react-virtualized",
   "description": "React components for efficiently rendering large, scrollable lists and tabular data",
   "author": "Brian Vaughn <brian.david.vaughn@gmail.com>",
   "user": "bvaughn",
@@ -45,10 +45,6 @@
     "dist",
     "styles.css"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bvaughn/react-virtualized.git"
-  },
   "keywords": [
     "react",
     "reactjs",
@@ -66,9 +62,6 @@
     "grid",
     "spreadsheet"
   ],
-  "bugs": {
-    "url": "https://github.com/bvaughn/react-virtualized/issues"
-  },
   "devDependencies": {
     "@babel/cli": "^7.7.0",
     "@babel/core": "^7.7.2",
