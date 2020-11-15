@@ -1,10 +1,9 @@
 {
-  "name": "paged-electron-react-virtualized",
+  "name": "@davidterins/paged-electron-react-virtualized",
   "description": "React components for efficiently rendering large, scrollable lists and tabular data",
   "author": "Brian Vaughn <brian.david.vaughn@gmail.com>",
   "user": "bvaughn",
-  "version": "9.22.2",
-  "homepage": "https://github.com/bvaughn/react-virtualized",
+  "version": "9.22.3",
   "main": "dist/commonjs/index.js",
   "module": "dist/es/index.js",
   "jsnext:main": "dist/es/index.js",
@@ -45,6 +44,10 @@
     "dist",
     "styles.css"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davidterins/paged-electron-react-virtualized.git"
+  },
   "keywords": [
     "react",
     "reactjs",
